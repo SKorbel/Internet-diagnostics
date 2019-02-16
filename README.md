@@ -7,4 +7,4 @@ Skrypt w bashu pingujący 3 różne hosty jednocześnie i zwracający błąd do 
 
 Just simply copy, or download the file idiagnostics.sh, and run it in bash.
 
-Po rsotu skopiuj, lub pobierz plik  idiagnostics.sh i otwórz go w bashu.
+Po prostu skopiuj, lub pobierz plik  idiagnostics.sh i otwórz go w bashu.
